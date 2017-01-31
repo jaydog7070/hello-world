@@ -1,2 +1,3 @@
 # hello-world
-Basic repository to relearn how to 
+Jason here i m relearning Python and relearning some machine learning.
+
